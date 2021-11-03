@@ -1,6 +1,8 @@
-Hi I'm Seth and I'm a Data Science student!
+Data Scientist and Analyst with a background in Political Science.
 
-I've started using and learning Git/GitHub recently and hope to be working in here a lot going forward.
+Always looking for new projects - especially anything related to NYC.
+
+I hope to use data to solve some of the issues our city faces!
 
 <!---
 SethKauf/SethKauf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
